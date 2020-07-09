@@ -1,0 +1,111 @@
+Sr- Full stack developer
+ 
+UI Layer 
+  UX Design 
+  angular/React js/JSP/Other frameworks
+  Session Management/ Cookie/ Security Valunarabiliy 
+  Authentication/Authorzation/Filter role
+  Cache/content Management
+  Testing/Automation Testing
+  Static/Dynamic
+  State management
+  Backend Call -Success/Failure
+  Error Log print/Generic Exception /Display page
+  Build Tool
+  
+BACK END  LAYER
+    
+	Web container/App container 
+		 
+	  Spring MVC+View resolover
+	  Node Js +express js
+	  JSP/servlet
+	  Spring REST API 
+	  
+	Service Layer
+
+	Business Layer
+
+	SOA as  Microservice:
+		 Sprin cloud Eureka + AWS SDK 
+		 Sring Boot with PAAS- Different region- CI & CD -based environment
+		 AWS/Azure/Other Cloud -Container service
+		 Service discovery client and server
+		 Service registory
+
+	 DB Layer
+	  RDMS-ORACLE ,SQL SERVER
+	  NOSQL -Mongodb/Cassandra,Redis, Elasticsearch
+	  CLOUD - AWS RDS/Azure DB 
+	  Search engine-solr/Elastic search
+  
+	 
+Cross cutting-cloud/source 
+==================
+Message  Oriented - JMS  traditional message- Kafka,Active MQ,IBM MQ,JBOSS mQ,Rabbit MQ, Docouple system-ESB, ETL, Distributed data stream and messagin -Kafka,Kenis
+Cache management- Encache, Redis,AWS elastic cache
+Security layer-   Web ,SOA - SOAP,REST CAL
+Logging system/Exception Handling
+Business role validation	
+Batch-Mode 
+
+
+Rest API Tool:
+============
+Swagger  REST API Design tool- https://howtodoinjava.com/swagger2/code-generation-for-rest-api/
+	A top-down approach – First API specification and then code generation
+	A botton-up approach – First API code and then Swagger integration. 
+	
+Postman
+
+
+Tesing: 
+ 
+ Performance Testig
+ Load testing
+ Profiling Testing
+ Automation Testing
+    
+
+ 
+Devops  
+
+   Container -Based/ Non container based
+   Container based+ Orcestration
+   Peomises/Cloud Pipeline -AWS/AZURE 
+
+
+
+
+
+
+SDLC:   
+  Agile Scrum       
+Business-  
+  Bank,Healthcare/Insurence
+
+
+
+
+=======================================================================================================
+React JS +Node js+express Js+ any server + Unit testcase
+Angular combination
+Data -  Single cluster+  spark +python -Batch  processing 
+
+
+react js+node js-reference
+
+https://medium.com/swlh/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66
+https://github.com/samaronybarros/movies-app
+https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+https://www.edureka.co/blog/reactjs-tutorial
+
+
+Spring + AWS
+https://aws.amazon.com/getting-started/container-microservices-tutorial/module-four/	
+
+ 
+ 
+ 
+
+ 
