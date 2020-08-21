@@ -1,0 +1,189 @@
+Sr- Full stack developer
+ 
+UI Layer 
+  UX Design 
+  angular/React js/JSP/Other frameworks
+  Session Management/ Cookie/ Security Valunarabiliy 
+  Authentication/Authorzation/Filter role
+  Cache/content Management
+  Testing/Automation Testing
+  Static/Dynamic
+  State management
+  Backend Call -Success/Failure
+  Error Log print/Generic Exception /Display page
+  Build Tool
+  
+BACK END  LAYER
+    
+	Web container/App container 
+		 
+	  Spring MVC+View resolover
+	  Node Js +express js
+	  JSP/servlet
+	  Spring REST API 
+	  
+	Service Layer
+
+	Business Layer
+
+	SOA as  Microservice:
+		 Sprin cloud Eureka + AWS SDK 
+		 Sring Boot with PAAS- Different region- CI & CD -based environment
+		 AWS/Azure/Other Cloud -Container service
+		 Service discovery client and server
+		 Service registory
+
+	 DB Layer
+	  RDMS-ORACLE ,SQL SERVER
+	  NOSQL -Mongodb/Cassandra,Redis, Elasticsearch
+	  CLOUD - AWS RDS/Azure DB 
+	  Search engine-solr/Elastic search
+  
+	 
+Cross cutting-cloud/source 
+==================
+Message  Oriented - JMS  traditional message- Kafka,Active MQ,IBM MQ,JBOSS mQ,Rabbit MQ, Docouple system-ESB, ETL, Distributed data stream and messagin -Kafka,Kenis
+Cache management- Encache, Redis,AWS elastic cache
+Security layer-   Web ,SOA - SOAP,REST CAL
+Logging system/Exception Handling
+Business role validation	
+Batch-Mode 
+
+
+Rest API Tool:
+============
+Swagger  REST API Design tool- https://howtodoinjava.com/swagger2/code-generation-for-rest-api/
+	A top-down approach – First API specification and then code generation
+	A botton-up approach – First API code and then Swagger integration. 
+	
+Postman
+
+
+Tesing: 
+ 
+ Performance Testig
+ Load testing
+ Profiling Testing
+ Automation Testing
+    
+
+ 
+Devops  
+
+   Container -Based/ Non container based
+   Container based+ Orcestration
+   Peomises/Cloud Pipeline -AWS/AZURE 
+
+
+
+
+
+
+SDLC:   
+  Agile Scrum       
+Business-  
+  Bank,Healthcare/Insurence
+
+
+
+
+=======================================================================================================
+React JS +Node js+express Js+ any server + Unit testcase
+Angular combination
+Data -  Single cluster+  spark +python -Batch  processing 
+
+
+react js+node js-reference
+
+https://medium.com/swlh/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66
+https://github.com/samaronybarros/movies-app
+https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+https://www.edureka.co/blog/reactjs-tutorial
+
+
+Spring + AWS
+https://aws.amazon.com/getting-started/container-microservices-tutorial/module-four/	
+
+ 
+ https://platform9.com/blog/kubernetes-docker-swarm-compared/
+
+https://piotrminkowski.wordpress.com/2018/05/18/quick-guide-to-deploying-java-apps-on-openshift/
+
+https://piotrminkowski.wordpress.com/2018/08/02/quick-guide-to-microservices-with-kubernetes-spring-boot-2-0-and-docker/
+
+https://dzone.com/articles/buiding-microservice-using-spring-boot-and-docker
+
+https://www.toptal.com/spring/spring-batch-tutorial
+
+http://websystique.com/spring-security/spring-security-4-custom-login-form-annotation-example/
+
+https://examples.javacodegeeks.com/enterprise-java/spring/batch/spring-batch-jmsitemreader-example/
+
+
+https://springbootdev.com/2018/07/17/spring-cloud-config-refreshing-the-config-changes-with-spring-cloud-bus-part-2/
+
+https://dzone.com/articles/exploring-message-brokers
+
+
+https://dzone.com/articles/deploying-spring-boot-on-docker
+
+https://www.journaldev.com/21597/spring-boot-actuator-endpoints
+
+https://sivalabs.in/2017/08/spring-cloud-tutorials-introduction-to-spring-cloud-config-server/
+
+https://thepracticaldeveloper.com/2018/03/18/spring-boot-service-discovery-eureka/
+
+https://piotrminkowski.wordpress.com/2018/05/18/quick-guide-to-deploying-java-apps-on-openshift/
+
+https://dzone.com/articles/quick-guide-to-microservices-with-kubernetes-sprin
+
+https://www.journaldev.com/21597/spring-boot-actuator-endpoints
+
+https://sivalabs.in/2017/08/spring-cloud-tutorials-introduction-to-spring-cloud-config-server/
+
+https://www.javainuse.com/pcf/pcf-intro
+
+RABBITQ
+
+https://dzone.com/articles/rabbitmq-and-spring-boot-integration-with-fault-to
+
+http://candidjava.com/tutorial/spring-boot-rabbitmq-example-using-maven/
+
+https://www.baeldung.com/queries-in-spring-data-mongodb
+
+https://sivalabs.in/2017/08/spring-cloud-tutorials-introduction-to-spring-cloud-config-server/
+
+PCF
+
+https://docs.pivotal.io/pivotalcf/2-4/concepts/overview.html
+
+https://jaxenter.com/spring-boot-tutorial-microservices-kubernetes-part-one-135490.html
+
+https://piotrminkowski.wordpress.com/2017/05/29/spring-cloud-microservices-at-pivotal-platform/
+
+https://www.novatec-gmbh.de/en/blog/service-discovery-eureka-cloud-foundry/
+
+https://grokonez.com/spring-framework/spring-amqp/rabbitmq-sendreceive-java-object-messages-spring-rabbitmq-springboot
+
+https://www.gartner.com/reviews/market/robotic-process-automatio-software
+
+
+BIGDATA
+
+https://data-flair.training/blogs/apache-hive-metastore/\
+
+https://kafka.apache.org/quickstart
+
+
+http://www.gocertify.com/table/quizzes/big-data/
+
+https://www.hdfstutorial.com/input-file-formats-in-hadoop/
+
+https://blog.cloudera.com/blog/2017/02/performance-comparing-of-different-file-formats-and-storage-engines-in-hadoop-file-system/
+
+https://mapr.com/blog/how-job-execution-framework-mapreduce-v1-v2/
+
+
+ 
+
+ 
