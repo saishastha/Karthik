@@ -1,0 +1,84 @@
+
+Cluster 1
+
+Full Stack Devloper/Mean stack Developer
+Cluster 3-1.Cloud Computing-IASS,PASS
+cluster  -Devops
+Cluster- SASS-Salesforce 
+
+
+
+Clusetr 2
+Data
+1.Inbound/OutBpund data-NoSql, RDMS,Bigdata
+2.Analysis/Statisc
+3. AI-   
+4.IOT
+
+
+
+Role
+ Full Stack Developer/Cloud Native(
+ Architect.
+ Data engineer/Data  Science
+ 
+
+
+
+Architect - 
+Envisioning the requirement,
+end-to-end for a platform, 
+specialized in at least one area of architecture (Software architecture, infrastructure architecture, 
+information architecture, data architecture, security architecture, UX architecture…), 
+create architecture artefacts like high level design (HLD), that specifies on various functional entities and frameworks, layers, inter system connectivity, ESB and more!
+UML -Design pattern, Domain driven model/event model 
+
+
+Work From Home
+technical- Cloud/Devops/Data/IOT
+Level - Senior Level-role 
+Customer interaction-Daily based/Presentation
+Banking/Product Based
+
+
+===================================================================
+DISCOVER TASK
+======================================================================
+
+1.Go green - initial Chnages -test/testing support/MCD follow up
+2.Documentation -web
+3.Userstory- Finacle-INC value date support
+4.Documentation in Finacle & follow up KT
+5.INC Debit card reissue
+6.BI documentation
+7.Install app -support-ooB
+9.Install support BAC/go green
+10.INC- Paperless statment -Error
+11.INC -LOC Missing page in Zelle
+12.INC- Schdule Transfer Documentation
+13.API Documentation Manage beneficiary
+
+===================================================================
+S2: START  -Review 
+======================================================================
+1. Please follow best practices for clean code. Check the entire project for redundant java files,      
+
+    commented code, unnecessary files and please remove them.
+    Also correct java file names as per Naming conventions.
+2. Use Lombok in all DTO and collections classes. Avoid using System.out.println()
+6. Please Check UserController.java, OutreachEventService class must not have a reference in controller class.
+
+
+3. Please provide Code Quality report,Jmeter report,Jprofiler report and provided should be >=80%
+4. No sonarcube report submitted. No code coverage report submitted.
+5. TDD is not followed.
+
+
+
+
+1. config server
+2. profile environment
+3. authentication -OAuthu2
+===================================================================
+S2: END
+======================================================================

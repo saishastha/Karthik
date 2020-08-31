@@ -1,0 +1,55 @@
+
+
+WHAT ARE THE NEED TO CONSIDER IN DESIGN AND ARCHITECT
+WHAT ARE THE NEED TO BE CONSIDER FOR EXTRENAL SYSTEM
+
+
+
+1.CI/CD - Approach
+   
+2.Microservice architecture APPROACH AND DESIGN- DONE
+3.Cross concern 
+  Cache Management -DONE
+  Session Management/Cookie
+ 
+
+
+UI Layer
+
+1.fetch
+  Response timeout
+2.Axios
+Backward compatibility
+Automatic JSON data transformation
+HTTP interceptors
+Download progress
+3.build tool - npm/yarn
+4.test framework- jest
+
+
+
+
+
+HTML 5
+Style:
+CSS,SCSS,SASS
+
+State Management
+
+	Redux is useful if your component:
+		Uses I/O like network or device APIs.
+		Saves or loads state.
+		Shares its state with non-child components.
+		Deals with any business logic or data processing shared with other parts of the application.
+
+	Likewise Hook if your component:
+		Doesn’t use the network.
+		Doesn’t save or load state.
+		Doesn’t share state with other non-child components.
+		Does need some ephemeral local component state
+	
+Backend service client
+	Httclient
+	Axios
+	Fetch
+	http	

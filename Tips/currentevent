@@ -1,0 +1,80 @@
+
+Need prepare
+
+   
+ Devops:
+ 
+  CI - Code coverage /Coding standard /Unit testing/Secure valunariblity/Build Tool = docker container or  JAR/EAR
+  CDelivary/Deployment - Steps
+  
+   Container -Based/ Non container based- done
+   Container based+ Orcestration(docker swarm && Kubernetes)
+   Container + PAAS - Container service/registry -Any cloud/Docker registry(cloud based) with/without Kubernetes based cluster in cloud
+   APPLICATIOn/Docker image+ PAAS -PCF  
+   Infrastructue  -promises/Any cloud Cloud Pipeline -AWS/AZURE 
+   config managemnt- Ansible,Terraform
+   Other tools  CD 
+  Scripting- Python, Shell, Groovy
+ 
+Use cases:
+ 
+Docker -preivious version
+Docker dependency without distrubution
+
+ 
+   
+ 
+
+Back end Layer  
+=========== 
+Fault Tolerence 
+1.1.API request limitation- Filter /servee API Gateway---  Done
+1.2 Back end failed but UI is active- done
+1.3.Backed was completed but response did not sent it back.-done
+1.4.Messagiing /Caching/Session/Cookie-- Done
+1.5.Browser/Mobile-	 Multiple request page -  How to handle-Request patch
+Aggretion && composition && n+1 problem
+Data base side load balancer 
+Transaction managemnt Databases  
+Why we need JMS   
+How to config common url config
+Why we need Redis
+How about cassandra compare to mongo db
+
+
+
+Design pattern/UML
+DS/Alogrithms
+Cache mechnisam-m general
+Cross orgin common
+
+ 
+ 
+
+
+Wipro project tools
+ 
+Spring MVC, Spring Boot, Micro services.
+Angular or React or Node JS.   Knowledge of Angular 2 and above is must.
+(Mongo DB or Cassandra either one is must)
+Hands on experience in Kafka.
+Hands Experience in CI-CD pipeline using Jenkins, Dockers
+Work experience to any one of cloud (AWS, Azure)
+·         Spring Boot, Micro, Dockers should be Strong
+·         React or Angular 2 and above - work experience
+·         Kafka / Rabbit MQ / IBM WMB MQ knowledge – Any one
+·         Mongo DB or Cassandra,  No SQL Dynamo DB Knowledge – Any one
+
+  
+ 
+ 
+ 
+Certificate Name : AWS Certified Solutions Architect - Associate (SAA-C02)
+
+Reference 
+
+1.Acloud grou
+2.Udemy s
+3.AWS FAG
+4.WhiteLabs
+

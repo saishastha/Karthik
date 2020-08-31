@@ -1,0 +1,59 @@
+1. Remove unused imports in all classes.
+
+karthik - removed all  the unused  imports
+ 
+2. In OutreachEventsContoller, OutreachEventService is tightly coupled. Inject the service by defining an Interface.-
+ 
+karthik I changed  like @Autowired	private OutreachEventService outreachEventService;
+ 
+3. The package structure for RoleBasedOauth2ApplicationTests class is not consistent with development packages.
+
+karthik - Changed the package and class
+
+
+4. No System.out.println should be used. Always use some logging framework like slf4j.  -Updated
+
+karthik - Removed the System.out.println and added logging
+
+5. In class Role, the variable name must be renamed to roleType.- 
+
+Karthik- Updated 
+
+6. In UserDto class, role variable should be renamed as roles since its datatype is List. 
+
+Karthik- Updated 
+
+7. In EventReportCollections class, datatype for  eventDate variable should be Date not String. All *hours variable should be int not string.
+
+Karthik- Updated 
+
+8. OutreachEventsContoller class should be renamed to OutreachEventsController.
+
+Karthik- Updated 
+
+9. I could not find code for Notification service, mentioned in Architecture diagram. Please update the diagram according to the code.
+
+Karthik - I changed the diagram and updated into the PPT
+
+10. Please draw the diagrams fro scratch. Do not copy paste from some site. Please confirm if Chef tool has been used.- 
+
+Karthik-  I did not used the Chef tool in DevOps. I have used only AWS Pipeline
+
+11. Please mention at least 5 out of 12 factor principles used in the project.
+
+Karthik- I have used  the below  factors
+
+I. Codebase-One codebase tracked in revision control, many deploys
+II. Dependencies-Explicitly declare and isolate dependencies
+III. Config-Store config in the environment
+IV. Backing services-Treat backing services as attached resources
+V. Build, release, run- Strictly separate build and run stages
+
+12. No reports have been submitted for Performance report, Code Profiling, Vulnerability. Please submit these three reports
+
+Karthik 
+
+Vulnerability-  its available  Vulnerability folder . 
+Performance report-  I could not setup and create the  reports  Because i am using new desktop that  is not allowing me to create. 
+Code Profiling- I could not setup and create the  reports  Because i am using new desktop that  is not allowing me to create.
+
